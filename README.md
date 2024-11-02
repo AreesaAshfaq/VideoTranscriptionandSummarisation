@@ -12,3 +12,7 @@
 - **Transcription Process:** The app processes the video using the Whisper model to convert audio to text accurately.
 - **Summary Generation:** Once transcription is complete, the app utilizes the BART model to analyze the text and generate a summary, focusing on key points.
 - **Display Results:** Users can view the transcribed text and the summary directly within the app.
+
+## Testing
+This app has been tested using the following [YouTube Video](https://www.youtube.com/watch?v=rwF-X5STYks). 
+First you need to download this video and then uplaod it in the app.
